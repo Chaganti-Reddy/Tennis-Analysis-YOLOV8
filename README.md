@@ -147,4 +147,4 @@ Follow this format:
 
 ## :eyes: License
 
-MIT © [Chaganti Reddy](https://github.com/Chaganti-Reddy/Tennis-Analysis-YOLOV8/blob/main/LICENSEE)
+MIT © [Chaganti Reddy](https://github.com/Chaganti-Reddy/Tennis-Analysis-YOLOV8/blob/main/LICENSE)
