@@ -14,7 +14,7 @@
 
 ## :innocent: Motivation
 
-The motivation behind this project to analyze tennis players in a video to measure their speed, ball shot speed and number of shots, so that the analysis can be used to improve the performance of the players. Not only that, it also helps for the coaches to analyze the performance of the players and provide feedback to the players. And to make the judgement for referees easier.
+The motivation behind this project to analyze tennis players in a video to measure their speed, ball shot speed and number of shots, so that the analysis can be used to improve the performance of the players. Not only that, it also helps for the coaches to analyze the performance of the players and provide feedback to the players. And to make the judgement for referees easier. This project is done with the help of Abtullatarek's video on YOLO and Tennis analysis.
 
 ## Table of Contents
 
